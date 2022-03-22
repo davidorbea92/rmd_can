@@ -15,3 +15,4 @@ Commands for stop and activation:
 * "c" for activate motor /all modes
 * "k" for stop any movement /all modes
 * "v" for turn off motor /all modes
+-
